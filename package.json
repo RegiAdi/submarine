@@ -1,0 +1,30 @@
+{
+  "name": "submarine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegiAdi/submarine.git"
+  },
+  "keywords": [],
+  "author": "Regi Adi Priyanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegiAdi/submarine/issues"
+  },
+  "homepage": "https://github.com/RegiAdi/submarine#readme",
+  "dependencies": {
+    "fastify": "^4.18.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
