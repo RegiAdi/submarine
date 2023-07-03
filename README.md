@@ -11,7 +11,6 @@ Clean Architecture implementation in Node.js (Fastify), Typescript and MongoDB.
 - A quick introduction to clean architecture <https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/>
 
 ### GitHub Repositories
-- bxcodec/go-clean-arch <https://github.com/bxcodec/go-clean-arch>
 - mattia-battiston/clean-architecture-example <https://github.com/mattia-battiston/clean-architecture-example>
 - madetech/clean-architecture <https://github.com/madetech/clean-architecture>
 
